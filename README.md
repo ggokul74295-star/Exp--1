@@ -26,6 +26,7 @@ Design the database with tables for Customer, Account, and Transaction.
 # DIAGRAMS:
 ## USE CASE GIAGRAM:
 <img width="1071" height="797" alt="image" src="https://github.com/user-attachments/assets/ba5ed354-6350-4f64-8a19-dfe3623419bc" />
+
 ## CLASS DIAGRAM:
 <img width="857" height="562" alt="image" src="https://github.com/user-attachments/assets/3a1b1a6c-55eb-4450-a6bd-ef8fc33a6fdd" />
 

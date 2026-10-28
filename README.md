@@ -3,7 +3,26 @@
 # AIM:
 To develop the ATM and Banking System using Star UML
 # SRS (Procedure):
+## Step 1: Problem Identification
 
+The main problem is the need for a fast, secure, and automated system that allows customers to perform banking transactions (like withdrawal, deposit, and fund transfer) without depending on bank staff.
+
+## Step 2: Requirement Analysis
+
+Identify user needs (customer, admin, staff).      
+Define functional requirements: login, balance check, withdrawal, deposit, transfer, PIN change.      
+Define non-functional requirements: speed, security, reliability, and usability.      
+
+## Step 3: System Design
+
+Draw UML diagrams to represent the system:      
+Use Case Diagram      
+Class Diagram      
+Activity Diagram      
+Sequence Diagram      
+Communication Diagram      
+Package Diagram      
+Design the database with tables for Customer, Account, and Transaction.
 # DIAGRAMS:
 ## USE CASE GIAGRAM:
 <img width="1071" height="797" alt="image" src="https://github.com/user-attachments/assets/ba5ed354-6350-4f64-8a19-dfe3623419bc" />
@@ -25,3 +44,4 @@ To develop the ATM and Banking System using Star UML
 <img width="1055" height="662" alt="image" src="https://github.com/user-attachments/assets/a6f50c0f-d879-4ffc-85dd-bd5ee5f5d3d5" />
 
 # RESULT:
+Thus the ATM and banking system project was executed and verified
